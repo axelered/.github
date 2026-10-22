@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source srcset="../assets/logo_dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="../assets/logo_light.svg" media="(prefers-color-scheme: light)">
-    <img src="../assets/logo_light.svg" alt="Axelered Logo" width="400">
+    <source srcset="../assets/logo_v5_wordmark_white.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="../assets/logo_v5_wordmark_black.svg" media="(prefers-color-scheme: light)">
+    <img src="../assets/logo_v5_wordmark_black.svg" alt="Axelered Logo" width="400">
   </picture>
 </p>
 
